@@ -1,0 +1,39 @@
+* {
+    background-image: url(images/snake.jpg);
+}
+
+canvas {
+    background-image: url(images/level2.png);
+    box-shadow: 20px 20px 20px rgb(97, 94, 94);
+    border: 5px solid black;
+    border-radius: 7px;
+}
+
+.noidung {
+    width: 640px;
+    margin: -90px auto;
+    display: flex;
+}
+
+h1 {
+    padding-left: 707px;
+    font-size: 30px;
+    font-weight: bold;
+    /* color: rgb(35, 46, 11); */
+    font-family: Algerian;
+}
+h2 {
+    padding-left: 600px;
+    font-size: 30px;
+    display: flex;
+    flex: 25%;
+    padding-bottom: 40px;
+    font-family: Algerian;
+}
+
+img {
+    padding: 36px 0px 0px 60px;
+}
+span {
+    padding: 31px 60px 15px 6px;
+}
